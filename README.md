@@ -9,9 +9,7 @@ The main objective is to predict housing prices based on a set of features inclu
 
 The dataset is initially split into training and testing sets (90\% train, 10\% test).
 
----
-
-## Dataset Features:
+### Dataset Features:
 - `SqFt`: Total square footage of the house (Continuous)
 - `Bedrooms`: Number of bedrooms (Discrete)
 - `Bathrooms`: Number of bathrooms (Discrete)
