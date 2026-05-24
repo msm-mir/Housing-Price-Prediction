@@ -1,4 +1,4 @@
-# Housing Price Prediction Linear Regression Machine Learning
+# Housing Price Prediction
 
 This project contains the implementation of a **Linear Regression** model built completely from scratch (without utilizing machine learning libraries) to predict housing prices.
 
