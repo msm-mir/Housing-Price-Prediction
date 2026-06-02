@@ -46,8 +46,6 @@ Exploratory Data Analysis (EDA) is performed using the `seaborn` library to unde
 
 ```
 ├── src/
-│   ├── data/
-│   │   └── house-prices.csv
 │   └── src.py
 ├── .gitignore
 └── README.md
